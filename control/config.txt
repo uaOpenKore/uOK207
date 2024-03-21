@@ -153,14 +153,14 @@ followBot 0
 itemsTakeAuto 2
 itemsTakeAuto_party 0
 itemsGatherAuto 2
-itemsMaxWeight 89
+itemsMaxWeight 50
 itemsMaxWeight_sellOrStore 48
 itemsMaxNum_sellOrStore 99
 cartMaxWeight 7900
 itemsTakeAuto_new 0
     
 
-lockMap pay_dun00
+lockMap 
 lockMap_x
 lockMap_y
 lockMap_randX
@@ -260,7 +260,7 @@ logGuildChat 0
 logSystemChat 0
 logEmoticons
 logConsole 0
-logAppendUsername 1
+logAppendUsername 0
 
 chatTitleOversize 0
 shopTitleOversize 0
