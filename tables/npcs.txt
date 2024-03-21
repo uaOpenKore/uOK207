@@ -1,0 +1,13 @@
+
+payon 161 72 Molly
+payon 162 67 Guide
+payon 146 87 Taekwon
+payon 159 96 Tool Dealer
+payon 178 108 Bulletin Board
+payon 104 63 Pet Merchant
+pay_arche 40 135 Bulletin Board
+pay_arche 45 138 Flora
+pay_arche 98 74 School Girl
+pay_arche 79 30 Bulletin Board
+pay_arche 85 30 Guide
+pay_arche 55 123 Kafra
