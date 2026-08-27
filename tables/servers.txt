@@ -1,6 +1,6 @@
 [uaRO]
 ip play.uaro.kiev.ua
-port 16900
+port 6900
 master_version 0
 version 20
 serverType 8
